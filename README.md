@@ -31,7 +31,7 @@
 
 ### 📫 Как со мной связаться:
 <div id="badges" align="center">
-  <a href="https://t.me/Bambino_Da">
+  <a href="https://t.me/BambinoDal">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/mr_odno_ekspresso">
